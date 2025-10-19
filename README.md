@@ -44,42 +44,42 @@
 
 ## 🌸 Instalación en Termux
 
-📌 *[1] instala*
+📌 *[𝟷] 𝙸𝙽𝚂𝚃𝙰𝙻𝙰*
 ```bash
 termux-setup-storage
 ```  
 
-📌 *[2] instala*
+📌 *[𝟸] 𝙸𝙽𝚂𝚃𝙰𝙻𝙰*
 ```bash
 pkg update -y && pkg upgrade -y
 ```
 
-📌 *[3] instala*
+📌 *[𝟹] 𝙸𝙽𝚂𝚃𝙰𝙻𝙰*
 ```bash
 pkg install -y git nodejs ffmpeg imagemagick
 ```
 
-📌 *[4] clona el repositorio*
+📌 *[𝟺] 𝙲𝙻𝙾𝙽𝙰 𝙴𝙻 𝚁𝙴𝙿𝙾𝚂𝙸𝚃𝙾𝚁𝙸𝙾*
 ```bash
 git clone https://github.com/KOCHOSHINOBU2/-
 ```
 
-📌 *[5] Entra a la carpeta*
+📌 *[𝟻] 𝙴𝙽𝚃𝚁𝙰 𝙰 𝙻𝙰 𝙲𝙰𝚁𝙿𝙴𝚃𝙰*
 ```bash
 cd Haruka-sakura 
 ```
 
-📌 *[6] instala*
+📌 *[𝟼] 𝙸𝙽𝚂𝚃𝙰𝙻𝙰*
 ```bash
 npm install
 ```
 
-📌 *[7] revisa las instalaciones*
+📌 *[𝟽] 𝚁𝙴𝚅𝙸𝚂𝙰 𝙻𝙰𝚂 𝙸𝙽𝚂𝚃𝙰𝙻𝙰𝙲𝙸𝙾𝙽𝙴𝚂*
 ```bash
 npm update
 ```
 
-📌 *[8] instala*
+📌 *[𝟾] 𝙸𝙽𝚂𝚃𝙰𝙻𝙰*
 ```bash
 npm start
 ```
@@ -92,7 +92,7 @@ Cuando hagas todo Inicia el BOT usando Harukastart.js 📌*
 </p> 
 ## 🍂 Instalación en Heruko 🍂
 
-📌 *Intalación Automática en Heruko*
+📌 *𝙸𝚗𝚑𝚊𝚕𝚊𝚌𝚒𝚘́𝚗 𝙰𝚞𝚝𝚘𝚖𝚊́𝚝𝚒𝚌𝚊 𝚎𝚗 𝙷𝚎𝚛𝚞𝚔𝚘*
 ```bash
 pkg update -y && pkg upgrade -y && pkg install -y git nodejs ffmpeg imagemagick && git clone https://github.com/KOCHOSHINOBU2/-.git && cd Haruka-Sakura && npm install && npm update && node Harukastart.js
 ```
