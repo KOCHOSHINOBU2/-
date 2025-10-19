@@ -32,6 +32,9 @@
 <img src="https://img.shields.io/badge/Canal-WhatsApp-8A8A8A?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
+<p align="center"> 
+<img src="https://github.com/GataNina-Li/GataNina-Li/blob/main/line.gif" width="400vw"> 
+</p> 
 ## 🌸 Instalación en Termux
 
 📌 *[1] instala*
@@ -77,6 +80,9 @@ npm start
 *¡Nota!
 Cuando hagas todo Inicia el BOT usando Harukastart.js 📌*
 
+<p align="center"> 
+<img src="https://github.com/GataNina-Li/GataNina-Li/blob/main/line.gif" width="400vw"> 
+</p> 
 ## 🍂 Instalación en Heruko 🍂
 
 📌 *Intalación Automática en Heruko*
@@ -86,6 +92,3 @@ pkg update -y && pkg upgrade -y && pkg install -y git nodejs ffmpeg imagemagick 
 
 *¡Nota! 
 Escanea el QR y disfruta de la diversión.📌*
-<p align="center"> 
-<img src="https://github.com/GataNina-Li/GataNina-Li/blob/main/line.gif" width="400vw"> 
-</p> 
