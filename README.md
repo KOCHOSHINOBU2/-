@@ -34,8 +34,22 @@
 
 ## ⌛ Instalación en Termux
 
-`termux-setup-storage                      pkg update -y && pkg upgrade -y
-pkg install -y git nodejs ffmpeg imagemagick                              git clone https://github.com/KOCHOSHINOBU2/-                              cd Haruka-sakura                             npm install                               npm update
-npm start`
+[1] instala
+termux-setup-storage   
+[2] instala
+pkg update -y && pkg upgrade -y
+[3] instala 
+pkg install -y git nodejs ffmpeg imagemagick  
+[4] clona el repositorio
+git clone https://github.com/KOCHOSHINOBU2/-  
+[5] Entra a la carpeta
+cd Haruka-sakura 
+[6] instala
+npm install  
+[7] revisa las instalaciones
+npm update
+[8] instala
+npm start
 
-*Después de eso te aparecerá un código QR. Escanéalo con WhatsApp Web y listo 📌.*
+*¡Nota!
+Cuando hagas todo Inicia el BOT usando Harukastart.js 📌*
