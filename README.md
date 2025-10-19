@@ -2,7 +2,7 @@
 𝐌𝐚𝐝𝐞 𝐈𝐧 𝐑𝐨𝐱𝐲'𝐬 𝐓𝐞𝐚𝐦
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=8A2BE2&center=true&vCenter=true&width=435&lines=𝐇𝐚𝐫𝐮𝐤𝐚+𝐒𝐚𝐤𝐮𝐫𝐚+❒;©𝐏𝐨𝐰𝐞𝐫+𝐁𝐲+𝐈𝐧𝐠𝐥𝐞𝐬𝐚.𝐱𝐲𝐳+✿;𝐁𝐨𝐭+𝐞𝐧+𝐀𝐜𝐭𝐮𝐚𝐥𝐢𝐳𝐚𝐜𝐢𝐨́𝐧+🌸;𝐀𝐩𝐨𝐲𝐚+𝐝𝐚𝐧𝐝𝐨+𝐮𝐧𝐚+𝐞𝐬𝐭𝐫𝐞𝐥𝐥𝐢𝐭𝐚+⭐" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=8A2BE2&center=true&vCenter=true&width=435&lines=𝐇𝐚𝐫𝐮𝐤𝐚+𝐒𝐚𝐤𝐮𝐫𝐚+❒;©𝐏𝐨𝐰𝐞𝐫+𝐁𝐲+𝐀𝐥𝐞𝐱𝐚.𝐱𝐲𝐳+✿;𝐁𝐨𝐭+𝐞𝐧+𝐀𝐜𝐭𝐮𝐚𝐥𝐢𝐳𝐚𝐜𝐢𝐨́𝐧+🌸;𝐀𝐩𝐨𝐲𝐚+𝐝𝐚𝐧𝐝𝐨+𝐮𝐧𝐚+𝐞𝐬𝐭𝐫𝐞𝐥𝐥𝐢𝐭𝐚+⭐" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ypsuke862">
-    <img src="https://img.shields.io/badge/Autor-Danonino-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/KOCHOSHINOBU2">
+    <img src="https://img.shields.io/badge/𝐀𝐮𝐭𝐨𝐫-𝐀𝐥𝐞𝐱𝐚.𝐱𝐲𝐳-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://instagram.com/kob_dano_nino">
     <img src="https://img.shields.io/badge/Instagram-kob_dano_nino-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white" />
