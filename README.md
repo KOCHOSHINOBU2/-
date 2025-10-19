@@ -32,29 +32,29 @@
 <img src="https://img.shields.io/badge/Canal-WhatsApp-8A8A8A?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
-## ⌛ Instalación en Termux
+## 🌸 Instalación en Termux
 
 `[1] instala
 termux-setup-storage`  
-*▬ֵ▭▬ֵ▭▬ֵ▭▬ֵ▭▬ֵ▭▬ֵ▭▬ֵ▭▬ֵ▭*
+
 `[2] instala
 pkg update -y && pkg upgrade -y`
-*▬ֵ▭▬ֵ▭▬ֵ▭▬ֵ▭▬ֵ▭▬ֵ▭▬ֵ▭▬ֵ▭*
+
 `[3] instala 
 pkg install -y git nodejs ffmpeg imagemagick` 
-*▬ֵ▭▬ֵ▭▬ֵ▭▬ֵ▭▬ֵ▭▬ֵ▭▬ֵ▭▬ֵ▭*
+
 `[4] clona el repositorio
 git clone https://github.com/KOCHOSHINOBU2/-`  
-*▬ֵ▭▬ֵ▭▬ֵ▭▬ֵ▭▬ֵ▭▬ֵ▭▬ֵ▭▬ֵ▭*
+
 `[5] Entra a la carpeta
 cd Haruka-sakura` 
-*▬ֵ▭▬ֵ▭▬ֵ▭▬ֵ▭▬ֵ▭▬ֵ▭▬ֵ▭▬ֵ▭*
+
 `[6] instala
 npm install` 
-*▬ֵ▭▬ֵ▭▬ֵ▭▬ֵ▭▬ֵ▭▬ֵ▭▬ֵ▭▬ֵ▭*
+
 `[7] revisa las instalaciones
 npm update`
-*▬ֵ▭▬ֵ▭▬ֵ▭▬ֵ▭▬ֵ▭▬ֵ▭▬ֵ▭▬ֵ▭*
+
 `[8] instala
 npm start`
 
