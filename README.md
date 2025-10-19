@@ -27,26 +27,26 @@
 <img src="https://img.shields.io/badge/Grupo_2-WhatsApp-8A8A8A?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
-## 𝘾𝘼𝙉𝘼𝙇 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇 𑂱 𑂱 𑂱 𑂱 𑂱 𑂱 𑂱 𑂱✌︎˶╹ꇴ╹˶✌︎
+## 𝘾𝘼𝙉𝘼𝙇 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇 𑂱 𑂱 𑂱 𑂱 𑂱 𑂱      𑂱 𑂱✌︎˶╹ꇴ╹˶✌︎
 <a href="https://whatsapp.com/channel/0029VbBWiQnDjiOZI4PeC20s">
 <img src="https://img.shields.io/badge/Canal-WhatsApp-8A8A8A?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
 ## ⌛ Instalación en Termux
-```termux-setup-storage```
+> ```termux-setup-storage```
 
-```pkg update -y && pkg upgrade -y```
+> ```pkg update -y && pkg upgrade -y```
 
-```pkg install -y git nodejs ffmpeg imagemagick```
+> ```pkg install -y git nodejs ffmpeg imagemagick```
 
-```git clone https://github.com/KOCHOSHINOBU2/-```
+> ```git clone https://github.com/KOCHOSHINOBU2/-```
 
-```cd Haruka-sakura```
+> ```cd Haruka-sakura```
 
-```npm install```
+> ```npm install```
 
-```npm update```
+> ```npm update```
 
-```npm start```
+> ```npm start```
 
 Después de eso te aparecerá un código QR. Escanéalo con WhatsApp Web y listo 📌.
