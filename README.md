@@ -65,5 +65,5 @@ Cuando hagas todo Inicia el BOT usando Harukastart.js 📌*
 
 ```pkg update -y && pkg upgrade -y && pkg install -y git nodejs ffmpeg imagemagick && git clone https://github.com/KOCHOSHINOBU2/-.git && cd Haruka-Sakura && npm install && npm update && node Harukastart.js```
 
-¡Nota! 
-*Escanea el QR y disfruta de la diversión.📌*
+*¡Nota! 
+Escanea el QR y disfruta de la diversión.📌*
