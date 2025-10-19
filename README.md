@@ -122,7 +122,7 @@ Escanea el QR y disfruta de la diversión.📌*
 </p>
 
 <p align="center">
-  <b>🪻 Dueña/Propietaria:</b><br>
+          <b>🪻 Dueña/Propietaria:</b><br>
   <a 
     <img src="https://files.catbox.moe/4rbw47.jpg" 
 <p align="center">
