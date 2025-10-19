@@ -33,26 +33,34 @@
 </a>
 
 ## ⌛ Instalación en Termux
+
 ```bash
 termux-setup-storage```
+
 
 ```bash
 pkg update -y && pkg upgrade -y```
 
+
 ```bash
 pkg install -y git nodejs ffmpeg imagemagick```
+
 
 ```bash
 git clone https://github.com/KOCHOSHINOBU2/-```
 
+
 ```bash
 cd Haruka-sakura```
+
 
 ```bash
 npm install```
 
+
 ```bash
 npm update```
+
 
 ```bash
 npm start```
