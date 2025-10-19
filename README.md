@@ -113,6 +113,7 @@ Escanea el QR y disfruta de la diversión.📌*
 
 ##  🍡 Créditos 
 
+<b>🪻 Colaborador:</b><br>
 <p align="center">
   <a href="https://github.com/kobDanonino">
     <img src="https://github.com/kobDanonino.png" width="150" height="150" alt="kobDanonino"/><br>
@@ -125,9 +126,9 @@ Escanea el QR y disfruta de la diversión.📌*
   <a 
     <img src="https://files.catbox.moe/4rbw47.jpg" 
 <p align="center">
-  <a href="https://github.com/kobDanonino">
-    <img src="https://github.com/kobDanonino.png" width="150" height="150" alt="kobDanonino"/><br>
-    <b>@kobDanonino</b>
+  <a href="https://github.com/KOCHOSHINOBU2">
+    <img src="https://github.com/KOCHOSHINOBU2.png" width="150" height="150" alt="Alexa_ortega"/><br>
+    <b>@Alexa_Ortega</b>
   </a>
 </p>
 
