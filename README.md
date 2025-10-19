@@ -34,29 +34,43 @@
 
 ## 🌸 Instalación en Termux
 
-`[1] instala
-termux-setup-storage`  
-
-`[2] instala
-pkg update -y && pkg upgrade -y`
-
-`[3] instala 
-pkg install -y git nodejs ffmpeg imagemagick` 
-
-`[4] clona el repositorio
-git clone https://github.com/KOCHOSHINOBU2/-`  
-
-`[5] Entra a la carpeta
-cd Haruka-sakura` 
-
-`[6] instala
-npm install` 
-
-`[7] revisa las instalaciones
-npm update`
-
+[1] instala
 ```bash
+termux-setup-storage
+```  
+
+[2] instala
+```bash
+pkg update -y && pkg upgrade -y
+```
+
+[3] instala 
+```bash
+pkg install -y git nodejs ffmpeg imagemagick
+```
+
+[4] clona el repositorio
+```bash
+git clone https://github.com/KOCHOSHINOBU2/-
+```
+
+[5] Entra a la carpeta
+```bash
+cd Haruka-sakura 
+```
+
+[6] instala
+```bash
+npm install
+```
+
+[7] revisa las instalaciones
+```bash
+npm update
+```
+
 [8] instala
+```bash
 npm start
 ```
 
