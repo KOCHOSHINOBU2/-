@@ -55,10 +55,8 @@ npm install`
 `[7] revisa las instalaciones
 npm update`
 
-`[8] instala
-npm start`
-
 ```bash
+[8] instala
 npm start
 ```
 
