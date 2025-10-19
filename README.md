@@ -1,4 +1,4 @@
-𝐇𝐀𝐑𝐔𝐊𝐀 𝐒𝐀𝐊𝐔𝐑𝐀-𝐌𝐃 
+## 𝐇𝐀𝐑𝐔𝐊𝐀 𝐒𝐀𝐊𝐔𝐑𝐀-𝐌𝐃 
 𝐌𝐚𝐝𝐞 𝐈𝐧 𝐑𝐨𝐱𝐲'𝐬 𝐓𝐞𝐚𝐦
 
 <p align="center">
@@ -19,14 +19,20 @@
 <img src="https://img.shields.io/badge/Java-Expert-8A8A8A?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
-𝙂𝙍𝙐𝙋𝙊𝙎 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇𝙀𝙎 ˃ 𖥦 ˂
-[!https://img.shields.io/badge/Grupo_1-WhatsApp-8A8A8A?style=for-the-badge&logo=whatsapp&logoColor=white](https://chat.whatsapp.com/HIOAhMxbxg6Hnp5gHkY0pT)
-[!https://img.shields.io/badge/Grupo_2-WhatsApp-8A8A8A?style=for-the-badge&logo=whatsapp&logoColor=white](https://chat.whatsapp.com/JI6zZ6hd8VA3xQwOdslcv9)
+## 𝙂𝙍𝙐𝙋𝙊𝙎 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇𝙀𝙎 ˃ 𖥦 ˂
+<a href="https://chat.whatsapp.com/HIOAhMxbxg6Hnp5gHkY0pT">
+<img src="https://img.shields.io/badge/Grupo_1-WhatsApp-8A8A8A?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+<a href="https://chat.whatsapp.com/JI6zZ6hd8VA3xQwOdslcv9">
+<img src="https://img.shields.io/badge/Grupo_2-WhatsApp-8A8A8A?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
 
-𝘾𝘼𝙉𝘼𝙇 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇 𑂱 𑂱 𑂱 𑂱 𑂱 𑂱 𑂱 𑂱✌︎˶╹ꇴ╹˶✌︎
-[!https://img.shields.io/badge/Canal-WhatsApp-8A8A8A?style=for-the-badge&logo=whatsapp&logoColor=white](https://whatsapp.com/channel/0029VbBWiQnDjiOZI4PeC20s)
+## 𝘾𝘼𝙉𝘼𝙇 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇 𑂱 𑂱 𑂱 𑂱 𑂱 𑂱 𑂱 𑂱✌︎˶╹ꇴ╹˶✌︎
+<a href="https://whatsapp.com/channel/0029VbBWiQnDjiOZI4PeC20s">
+<img src="https://img.shields.io/badge/Canal-WhatsApp-8A8A8A?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
 
-⌛ Instalación en Termux
+## ⌛ Instalación en Termux
 termux-setup-storage
 
 pkg update -y && pkg upgrade -y
