@@ -34,8 +34,8 @@
 
 ## ⌛ Instalación en Termux
 
-```bash               termux-setup-storage                      pkg update -y && pkg upgrade -y
+`termux-setup-storage                      pkg update -y && pkg upgrade -y
 pkg install -y git nodejs ffmpeg imagemagick                              git clone https://github.com/KOCHOSHINOBU2/-                              cd Haruka-sakura                             npm install                               npm update
-npm start```
+npm start`
 
-Después de eso te aparecerá un código QR. Escanéalo con WhatsApp Web y listo 📌.
+*Después de eso te aparecerá un código QR. Escanéalo con WhatsApp Web y listo 📌.*
