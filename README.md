@@ -34,7 +34,7 @@
 
 ## ⌛ Instalación en Termux
 
-`termux-setup-storage                      ### pkg update -y && pkg upgrade -y
+`termux-setup-storage                      pkg update -y && pkg upgrade -y
 pkg install -y git nodejs ffmpeg imagemagick                              git clone https://github.com/KOCHOSHINOBU2/-                              cd Haruka-sakura                             npm install                               npm update
 npm start`
 
