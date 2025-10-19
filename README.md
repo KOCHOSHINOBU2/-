@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/Java-Expert-8A8A8A?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
-## 𝙂𝙍𝙐𝙋𝙊𝙎 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇𝙀𝙎 ˃ 𖥦 ˂
+## 𝙂𝙍𝙐𝙋𝙊𝙎 𝙊𝙁𝙄𝘾𝙄𝘼𝙇𝙀𝙎 ˃ 𖥦 ˂
 <a href="https://chat.whatsapp.com/HIOAhMxbxg6Hnp5gHkY0pT">
 <img src="https://img.shields.io/badge/Grupo_1-WhatsApp-8A8A8A?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
@@ -31,13 +31,10 @@
 <img src="https://img.shields.io/badge/Grupo_2-WhatsApp-8A8A8A?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
-## 𝘾𝘼𝙉𝘼𝙇 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇 𑂱 𑂱 𑂱✌︎˶╹ꇴ╹˶✌︎
+## 𝘾𝘼𝙉𝘼𝙇 𝙊𝙁𝙄𝘾𝙄𝘼𝙇 𑂱 𑂱 𑂱✌︎˶╹ꇴ╹˶✌︎
 <a href="https://whatsapp.com/channel/0029VbBlsQ63AzNOHxBtKA3A">
 <img src="https://img.shields.io/badge/Canal-WhatsApp-8A8A8A?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KOCHOSHINOBU2&theme=jolly&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 
 <p align="center"> 
 <img src="https://github.com/GataNina-Li/GataNina-Li/blob/main/line.gif" width="400vw"> 
