@@ -114,8 +114,6 @@ Escanea el QR y disfruta de la diversión.📌*
 ##  🍡 Créditos 
 
      
-<b>🍂 Colaborador:</b><br>
-  <a 
 <p align="center">
   <a href="https://github.com/kobDanonino">
     <img src="https://github.com/kobDanonino.png" width="150" height="150" alt="kobDanonino"/><br>
