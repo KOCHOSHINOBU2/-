@@ -36,6 +36,9 @@
 <img src="https://img.shields.io/badge/Canal-WhatsApp-8A8A8A?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KOCHOSHINOBU2&theme=jolly&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
 <p align="center"> 
 <img src="https://github.com/GataNina-Li/GataNina-Li/blob/main/line.gif" width="400vw"> 
 </p> 
@@ -142,7 +145,5 @@ Escanea el QR y disfruta de la diversión.📌*
     <b>@Alexa_Ortega</b>
   </a>
 </p>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KOCHOSHINOBU2&theme=jolly&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2693ff&height=120&section=footer"/>
