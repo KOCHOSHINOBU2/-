@@ -58,6 +58,10 @@ npm update`
 `[8] instala
 npm start`
 
+```bash
+npm start
+```
+
 *¡Nota!
 Cuando hagas todo Inicia el BOT usando Harukastart.js 📌*
 
