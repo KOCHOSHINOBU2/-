@@ -91,7 +91,6 @@ Cuando hagas todo Inicia el BOT usando Harukastart.js 📌*
 <img src="https://github.com/GataNina-Li/GataNina-Li/blob/main/line.gif" width="400vw"> 
 </p> 
 ## 🍂 Instalación en Heruko 🍂
-<details>
   
 📌 *𝙸𝚗𝚜𝚝𝚊𝚕𝚊𝚌𝚒𝚘𝚗 𝙰𝚞𝚝𝚘𝚖𝚊𝚝𝚒𝚌𝚊 𝚎𝚗 𝙷𝚎𝚛𝚞𝚔𝚘*
 ```bash
