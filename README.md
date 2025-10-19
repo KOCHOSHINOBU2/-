@@ -54,6 +54,16 @@
 ︎︎📌 TipoBts: Main,sub,tmp,owner.
 </details>
 
+<details>
+ <summary><b> 🌊 Soporte</b></summary>
+
+🌈 Gmail: alexaxyz500@gmail.com
+
+🌈 Gmail: limlimstar32@gmail.com 
+
+🌈 Gmail: roxys.team.oficial@gmail.com.
+</details>
+
 <p align="center"> 
 <img src="https://github.com/GataNina-Li/GataNina-Li/blob/main/line.gif" width="400vw"> 
 </p> 
