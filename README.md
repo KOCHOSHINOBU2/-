@@ -43,8 +43,10 @@
 [![Termux](https://img.shields.io/badge/Termux%20Apk-000000?style=for-the-badge&logo=android&logoColor=white)](https://f-droid.org/es/packages/com.termux/)
 
 ## 🌸 Instalación en Termux
+
 <details>
-  <summary><b>Toca para ver más.</b></summary>
+  <summary><b>Toca para ver más.</b></>
+
 📌 *[𝟷] 𝙸𝙽𝚂𝚃𝙰𝙻𝙰*
 ```bash
 termux-setup-storage
@@ -93,7 +95,7 @@ Cuando hagas todo Inicia el BOT usando Harukastart.js 📌*
 </p> 
 ## 🍂 Instalación en Heruko 🍂
 <details>
-  <summary><b>Toca para ver más.</b></summary>
+  
 📌 *𝙸𝚗𝚜𝚝𝚊𝚕𝚊𝚌𝚒𝚘𝚗 𝙰𝚞𝚝𝚘𝚖𝚊𝚝𝚒𝚌𝚊 𝚎𝚗 𝙷𝚎𝚛𝚞𝚔𝚘*
 ```bash
 pkg update -y && pkg upgrade -y && pkg install -y git nodejs ffmpeg imagemagick && git clone https://github.com/KOCHOSHINOBU2/-.git && cd Haruka-Sakura && npm install && npm update && node Harukastart.js
@@ -103,8 +105,7 @@ pkg update -y && pkg upgrade -y && pkg install -y git nodejs ffmpeg imagemagick 
 Escanea el QR y disfruta de la diversión.📌*
 
 ## 🌊𝙸𝚍𝚒𝚘𝚖𝚊𝚜 𝙳𝚒𝚜𝚙𝚘𝚗𝚒𝚋𝚕𝚎𝚜 🦈
-<details>
-  <summary><b>Toca para ver más.</b></summary>
+
 ```bash
 🦈 Español
 🦈 Inglés
@@ -116,9 +117,6 @@ Escanea el QR y disfruta de la diversión.📌*
 [![YouTube](https://img.shields.io/badge/SkyUltraPlus-Host-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/fZbcCLpSH6Y?si=1sDen7Bzmb7jVpAI)
 
 <a href="https://skyultraplus.com"><img src="https://qu.ax/wbJoB.png" height="125px"></a>
-
-<details>
-  <summary><b>Toca para ver más.</b></summary>
 
 ### Información sobre Sky
 - **Pagina Oficial:** [`Aqui`](https://skyultraplus.com)
