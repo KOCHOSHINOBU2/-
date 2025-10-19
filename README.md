@@ -38,7 +38,7 @@
 <img src="https://github.com/GataNina-Li/GataNina-Li/blob/main/line.gif" width="400vw"> 
 </p> 
 
-[![Termux](https://img.shields.io/badge/Instalar%20Termux-000000?style=for-the-badge&logo=android&logoColor=white)](https://f-droid.org/es/packages/com.termux/)
+[![Termux](https://img.shields.io/badge/Termux%20Apk-000000?style=for-the-badge&logo=android&logoColor=white)](https://f-droid.org/es/packages/com.termux/)
 
 ## 🌸 Instalación en Termux
 
