@@ -36,8 +36,7 @@
 <img src="https://img.shields.io/badge/Canal-WhatsApp-8A8A8A?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
-## 
-```bash
+## ```bash
 Info Bot 🦈
 ```
 
