@@ -44,9 +44,6 @@
 
 ## 🌸 Instalación en Termux
 
-<details>
-  <summary><b>Toca para ver más.</b></>
-
 📌 *[𝟷] 𝙸𝙽𝚂𝚃𝙰𝙻𝙰*
 ```bash
 termux-setup-storage
