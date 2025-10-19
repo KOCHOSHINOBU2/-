@@ -47,9 +47,7 @@
 <details>
  <summary><b> 🌊 Versión</b></summary>
 
-* 📌 Versión: 1.0.0
-  📌 Librería: Baileys 
-  📌 TipoBts: Main,sub,tmp,owner*.
+* 📌 Versión: 1.0.0.                             ︎  📌 Librería: Baileys                  ︎  ︎︎︎  📌 TipoBts: Main,sub,tmp,owner*.
 </details>
 
 <p align="center"> 
