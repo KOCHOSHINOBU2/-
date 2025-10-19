@@ -103,10 +103,10 @@ Escanea el QR y disfruta de la diversión.📌*
 ## 🌊𝙸𝚍𝚒𝚘𝚖𝚊𝚜 𝙳𝚒𝚜𝚙𝚘𝚗𝚒𝚋𝚕𝚎𝚜 🦈
 
 ```bash
-🦈 *Español*
-🦈 *Inglés*
-🦈 *Portugués*
-🦈 *Ruso*
+🦈 Español
+🦈 Inglés
+🦈 Portugués
+🦈 Ruso
 ```
 
 ### ☁️ SKY ULTRA PLUS 
