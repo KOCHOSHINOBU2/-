@@ -36,6 +36,11 @@
 <img src="https://img.shields.io/badge/Canal-WhatsApp-8A8A8A?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
+## 
+```bash
+Info Bot 🦈
+```
+
 <p align="center"> 
 <img src="https://github.com/GataNina-Li/GataNina-Li/blob/main/line.gif" width="400vw"> 
 </p> 
