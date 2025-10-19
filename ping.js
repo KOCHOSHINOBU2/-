@@ -24,3 +24,4 @@ def ping(numero):
 # Ejemplo de uso
 numero = '+1234567890'
 ping(numero)
+
