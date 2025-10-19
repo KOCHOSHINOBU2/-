@@ -44,6 +44,14 @@
 * Este Bot es una pequeña versión de prueba para Whatsapp y telegram, los códigos QR no están asegurados ensu generación en consola.
 </details>
 
+<details>
+ <summary><b> 🌊 Versión</b></summary>
+
+* 📌 Versión: 1.0.0
+  📌 Librería: Baileys 
+  📌 TipoBts: Main,sub,tmp,owner*.
+</details>
+
 <p align="center"> 
 <img src="https://github.com/GataNina-Li/GataNina-Li/blob/main/line.gif" width="400vw"> 
 </p> 
