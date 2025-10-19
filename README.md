@@ -43,10 +43,8 @@
 [![Termux](https://img.shields.io/badge/Termux%20Apk-000000?style=for-the-badge&logo=android&logoColor=white)](https://f-droid.org/es/packages/com.termux/)
 
 ## 🌸 Instalación en Termux
-
 <details>
   <summary><b>Toca para ver más.</b></summary>
-
 📌 *[𝟷] 𝙸𝙽𝚂𝚃𝙰𝙻𝙰*
 ```bash
 termux-setup-storage
