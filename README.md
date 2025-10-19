@@ -95,4 +95,18 @@ pkg update -y && pkg upgrade -y && pkg install -y git nodejs ffmpeg imagemagick 
 *¡Nota! 
 Escanea el QR y disfruta de la diversión.📌*
 
+### ☁️ SKY ULTRA PLUS 
+[![YouTube](https://img.shields.io/badge/SkyUltraPlus-Host-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/fZbcCLpSH6Y?si=1sDen7Bzmb7jVpAI)
+
+<a href="https://skyultraplus.com"><img src="https://qu.ax/wbJoB.png" height="125px"></a>
+
+### Información sobre Sky
+- **Pagina Oficial:** [`Aqui`](https://skyultraplus.com)
+- **Dashboard:** [`Aquí`](https://dash.skyultraplus.com)
+- **Panel:** [`Aquí`](https://panel.skyultraplus.com)
+- **Estado de servicios:** [`Aquí`](https://estado.skyultraplus.com)
+- **Canal de WhatsApp:** [`Aquí`](https://whatsapp.com/channel/0029VakUvreFHWpyWUr4Jr0g)
+- **Comunidad:** [`Aquí`](https://chat.whatsapp.com/E6iWpvGuJ8zJNPbN3zOr0D)
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2693ff&height=120&section=footer"/>
