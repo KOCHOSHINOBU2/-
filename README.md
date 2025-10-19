@@ -143,4 +143,6 @@ Escanea el QR y disfruta de la diversión.📌*
   </a>
 </p>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KOCHOSHINOBU2&theme=jolly&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2693ff&height=120&section=footer"/>
