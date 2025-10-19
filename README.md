@@ -11,7 +11,7 @@
 
 <p align="center">
 <a href="https://github.com/KOCHOSHINOBU2">
-<img src="https://img.shields.io/badge/𝐀𝐮𝐭𝐨𝐫-𝐀𝐥𝐞𝐱𝐚.𝐱𝐲𝐳-8A8A8A?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Autor-Alexa.xyz-8A8A8A?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <img src="https://img.shields.io/badge/JavaScript-Verificado-8A8A8A?style=for-the-badge&logo=javascript&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-Actualizado-8A8A8A?style=for-the-badge&logo=node.js&logoColor=white" />
