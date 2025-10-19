@@ -31,8 +31,8 @@
 <img src="https://img.shields.io/badge/Grupo_2-WhatsApp-8A8A8A?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
-## 𝘾𝘼𝙉𝘼𝙇 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇 𑂱 𑂱 𑂱 𑂱 𑂱 𑂱      𑂱 𑂱✌︎˶╹ꇴ╹˶✌︎
-<a href="https://whatsapp.com/channel/0029VbBWiQnDjiOZI4PeC20s">
+## 𝘾𝘼𝙉𝘼𝙇 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇 𑂱 𑂱 𑂱✌︎˶╹ꇴ╹˶✌︎
+<a href="https://whatsapp.com/channel/0029VbBlsQ63AzNOHxBtKA3A">
 <img src="https://img.shields.io/badge/Canal-WhatsApp-8A8A8A?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
