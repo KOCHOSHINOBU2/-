@@ -92,7 +92,7 @@ Cuando hagas todo Inicia el BOT usando Harukastart.js 📌*
 </p> 
 ## 🍂 Instalación en Heruko 🍂
 
-📌 *𝙸𝚗𝚑𝚊𝚕𝚊𝚌𝚒𝚘́𝚗 𝙰𝚞𝚝𝚘𝚖𝚊́𝚝𝚒𝚌𝚊 𝚎𝚗 𝙷𝚎𝚛𝚞𝚔𝚘*
+📌 *𝙸𝚗𝚑𝚊𝚕𝚊𝚌𝚒𝚘𝚗 𝙰𝚞𝚝𝚘𝚖𝚊𝚝𝚒𝚌𝚊 𝚎𝚗 𝙷𝚎𝚛𝚞𝚔𝚘*
 ```bash
 pkg update -y && pkg upgrade -y && pkg install -y git nodejs ffmpeg imagemagick && git clone https://github.com/KOCHOSHINOBU2/-.git && cd Haruka-Sakura && npm install && npm update && node Harukastart.js
 ```
