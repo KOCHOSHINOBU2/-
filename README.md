@@ -111,5 +111,21 @@ Escanea el QR y disfruta de la diversión.📌*
 - **Canal de WhatsApp:** [`Aquí`](https://whatsapp.com/channel/0029VakUvreFHWpyWUr4Jr0g)
 - **Comunidad:** [`Aquí`](https://chat.whatsapp.com/E6iWpvGuJ8zJNPbN3zOr0D)
 
+##  🍡 Créditos 
+
+<p align="center">
+  <a href="https://github.com/kobDanonino">
+    <img src="https://github.com/kobDanonino.png" width="150" height="150" alt="kobDanonino"/><br>
+    <b>@kobDanonino</b>
+  </a>
+</p>
+
+<p align="center">
+  <b>🪻 Dueña/Propietaria:</b><br>
+  <a 
+    <img src="https://files.catbox.moe/4rbw47.jpg" width="130" height="130" style="border-radius: 50%;" alt="SHINOBU"/><br>
+    <b>@Alexa_ortega</b>
+  </a>
+</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2693ff&height=120&section=footer"/>
