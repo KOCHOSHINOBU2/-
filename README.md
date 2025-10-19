@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8848ff&height=120&section=header"/>
+
 ## 𝐇𝐀𝐑𝐔𝐊𝐀 𝐒𝐀𝐊𝐔𝐑𝐀-𝐌𝐃 
 𝐌𝐚𝐝𝐞 𝐈𝐧 𝐑𝐨𝐱𝐲'𝐬 𝐓𝐞𝐚𝐦
 
