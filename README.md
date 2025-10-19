@@ -1,4 +1,4 @@
-# Bot sin actualización y con errores 
+# 𝐇𝐀𝐑𝐔𝐊𝐀 𝐒𝐀𝐊𝐔𝐑𝐀-𝐌𝐃
 © 𝘿𝙖𝙣𝙤𝙣𝙞𝙣𝙤 & 𝙭𝙊𝙣𝙚
 
 <p align="center">
