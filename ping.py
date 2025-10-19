@@ -1,26 +1,22 @@
 import time
-from twilio.rest import Client
 
-account_sid = 'tu_account_sid'
-auth_token = 'tu_auth_token'
-client = Client(account_sid, auth_token)
-
-def enviar_mensaje(mensaje, numero):
-    message = client.messages.create(
-        body=mensaje,
-        from_='whatsapp:tu_numero_de_twilio',
-        to=f'whatsapp:{numero}'
-    )
-    return message.sid
-
-def ping(numero):
+def ping():
     start_time = time.time()
-    mensaje = "⭐ ¡Pong! > Velocidad: "
+    print("⭐ ¡Pong!")
     end_time = time.time()
     ping_time = round((end_time - start_time) * 1000)
-    mensaje += f"{ping_time}ms"
-    enviar_mensaje(mensaje, numero)
+    print(f"⭐ ¡Pong! > Velocidad: {ping_time}ms")
 
-# Ejemplo de uso
-numero = '+1234567890'
-ping(numero)
+def main():
+    print("Escribe 'ping' para obtener la velocidad de respuesta")
+    while True:
+        comando = input("> ").lower()
+        if comando == "ping":
+            ping()
+        elif comando == "salir":
+            break
+        else:
+            print("Comando no reconocido")
+
+if __name__ == "__main__":
+    main()
