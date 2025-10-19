@@ -86,3 +86,6 @@ pkg update -y && pkg upgrade -y && pkg install -y git nodejs ffmpeg imagemagick 
 
 *¡Nota! 
 Escanea el QR y disfruta de la diversión.📌*
+<p align="center"> 
+<img src="https://github.com/GataNina-Li/GataNina-Li/blob/main/line.gif" width="400vw"> 
+</p> 
