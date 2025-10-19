@@ -33,20 +33,20 @@
 </a>
 
 ## ⌛ Instalación en Termux
-> `termux-setup-storage`
+`termux-setup-storage`
 
-> `pkg update -y && pkg upgrade -y`
+`pkg update -y && pkg upgrade -y`
 
-> `pkg install -y git nodejs ffmpeg imagemagick`
+`pkg install -y git nodejs ffmpeg imagemagick`
 
-> `git clone https://github.com/KOCHOSHINOBU2/-`
+`git clone https://github.com/KOCHOSHINOBU2/-`
 
-> `cd Haruka-sakura`
+`cd Haruka-sakura`
 
-> `npm install`
+`npm install`
 
-> `npm update`
+`npm update`
 
-> `npm start`
+`npm start`
 
 Después de eso te aparecerá un código QR. Escanéalo con WhatsApp Web y listo 📌.
