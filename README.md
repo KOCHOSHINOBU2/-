@@ -94,3 +94,5 @@ pkg update -y && pkg upgrade -y && pkg install -y git nodejs ffmpeg imagemagick 
 
 *¡Nota! 
 Escanea el QR y disfruta de la diversión.📌*
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2693ff&height=120&section=footer"/>
