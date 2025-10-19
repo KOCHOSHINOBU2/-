@@ -2,7 +2,7 @@
 𝐌𝐚𝐝𝐞 𝐈𝐧 𝐑𝐨𝐱𝐲'𝐬 𝐓𝐞𝐚𝐦
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=8A8A8A&center=true&vCenter=true&width=435&lines=𝐇𝐚𝐫𝐮𝐤𝐚+𝐒𝐚𝐤𝐮𝐫𝐚+❒;©𝐏𝐨𝐰𝐞𝐫+𝐁𝐲+𝐀𝐥𝐞𝐱𝐚.𝐱𝐲𝐳+✿;𝐁𝐨𝐭+𝐞𝐧+𝐀𝐜𝐭𝐮𝐚𝐥𝐢𝐳𝐚𝐜𝐢𝐨́𝐧+🌸;𝐀𝐩𝐨𝐲𝐚+𝐝𝐚𝐧𝐝𝐨+𝐮𝐧𝐚+𝐞𝐬𝐭𝐫𝐞𝐥𝐥𝐢𝐭𝐚+⭐" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=8A8A8A&center=true&vCenter=true&width=435&lines=𝐇𝐚𝐫𝐮𝐤𝐚+𝐒𝐚𝐤𝐮𝐫𝐚+❒;©𝐏𝐨𝐰𝐞𝐫+𝐁𝐲+𝐀𝐥𝐞𝐱𝐚.𝐱𝐲𝐳+✿;𝐁𝐨𝐭+𝐞𝐧+𝐀𝐜𝐭𝐮𝐚𝐥𝐢𝐳𝐚𝐜𝐢𝐨𝐧+🌸;𝐀𝐩𝐨𝐲𝐚+𝐝𝐚𝐧𝐝𝐨+𝐮𝐧𝐚+𝐞𝐬𝐭𝐫𝐞𝐥𝐥𝐢𝐭𝐚+⭐" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -33,20 +33,20 @@
 </a>
 
 ## ⌛ Instalación en Termux
-termux-setup-storage
+```termux-setup-storage```
 
-pkg update -y && pkg upgrade -y
+```pkg update -y && pkg upgrade -y```
 
-pkg install -y git nodejs ffmpeg imagemagick
+```pkg install -y git nodejs ffmpeg imagemagick```
 
-git clone https://github.com/KOCHOSHINOBU2/-
+```git clone https://github.com/KOCHOSHINOBU2/-```
 
-cd Haruka-sakura
+```cd Haruka-sakura```
 
-npm install
+```npm install```
 
-npm update
+```npm update```
 
-npm start
+```npm start```
 
 Después de eso te aparecerá un código QR. Escanéalo con WhatsApp Web y listo 📌.
