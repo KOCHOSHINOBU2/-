@@ -34,7 +34,7 @@
 
 ## ⌛ Instalación en Termux
 
-```bash
+``bash
 termux-setup-storage```
 
 
