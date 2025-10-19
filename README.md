@@ -130,12 +130,17 @@ Escanea el QR y disfruta de la diversión.📌*
 
 ## 🌊𝙸𝚍𝚒𝚘𝚖𝚊𝚜 𝙳𝚒𝚜𝚙𝚘𝚗𝚒𝚋𝚕𝚎𝚜 🦈
 
+<details>
+ <summary><b> 🌊 Más info</b></summary>
+
 ```bash
 🦈 Español
 🦈 Inglés
 🦈 Portugués
 🦈 Ruso
 ```
+
+</details>
 
 ### ☁️ SKY ULTRA PLUS 
 [![YouTube](https://img.shields.io/badge/SkyUltraPlus-Host-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/fZbcCLpSH6Y?si=1sDen7Bzmb7jVpAI)
