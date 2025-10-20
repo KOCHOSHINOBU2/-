@@ -72,6 +72,9 @@
 
 ## 🌸 Instalación en Termux
 
+<details>
+ <summary><b> ⭐ Instalación por termux</b></summary>
+
 📌 *[𝟷] 𝙸𝙽𝚂𝚃𝙰𝙻𝙰*
 ```bash
 termux-setup-storage
@@ -111,6 +114,7 @@ npm update
 ```bash
 npm start
 ```
+</details>
 
 *¡Nota!
 Cuando hagas todo Inicia el BOT usando Harukastart.js 📌*
